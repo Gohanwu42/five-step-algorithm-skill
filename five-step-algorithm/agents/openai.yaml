@@ -1,0 +1,4 @@
+interface:
+  display_name: "Five-Step Algorithm"
+  short_description: "Turn tasks into simpler, verified action"
+  default_prompt: "Use $five-step-algorithm to help me complete this task: clarify the outcome, remove unnecessary work, and carry out the next useful actions."
